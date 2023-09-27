@@ -2,7 +2,7 @@
 
 A "Stats Preview Card Component" challenge completed as part of the Frontend Mentor challenges. This project involves creating a card component using HTML and CSS to display statistical data. The card features a responsive design that adjusts to various screen sizes.
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Stats preview card component coding challenge](./images/Neutral%20Minimal%20Shadow%20Photographer%20Frame%20Mockup%20Pinterest%20Pin.png)
 
 ## Features
 
